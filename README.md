@@ -1,6 +1,6 @@
-# Portfolio_PBI
+# Relation between Brain Weight and head Size.
 
-Relation between Brain Weight and head Size.
+
 
 Source:  dataset that shows a few variations of head sizes (cm3) and masses of brains (grams) 
 Gladstone, R. J. (1905). A STUDY OF THE RELATIONS OF THE BRAIN TO THE SIZE OF THE HEAD. Biometrika, 4(1–2), 105–123. 
